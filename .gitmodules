@@ -1,0 +1,6 @@
+[submodule "WeatherAppAPIBackend"]
+	path = WeatherAppAPIBackend
+	url = https://github.com/ensarerturk/WeatherAppAPIBackend
+[submodule "WeatherAppAPIFrontend"]
+	path = WeatherAppAPIFrontend
+	url = https://github.com/ensarerturk/WeatherAppAPIFrontend
